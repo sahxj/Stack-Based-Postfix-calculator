@@ -1,41 +1,4 @@
-// a1.cpp
-
-/////////////////////////////////////////////////////////////////////////
-//
-// Student Info
-// ------------
-//
-// Name         : Sahaj Bhangu   
-// Student ID # : 301649137      
-// SFU Email    : sba286@sfu.ca  
-// Platform     : macOS, using clang++
-// Editor/IDE   : VS Code        
-// Known Bugs   : <describe any bugs or issues you're aware of>
-// Missing      : Trig. functions calculate in degrees, not radians
-// Challenges   : Learning to implement <vector>, and using the concept of stacks in this assignment
-// // Help      :    1. To learn about vectors 
-//                      https://cppreference.com/w/cpp/container/vector/clear.html
-//                   2. To figure out how to use stacks in general although implemnted through vector
-//                      https://www.w3schools.com/cpp/cpp_stacks.asp
-//                   3. To understand stringstreams used for split helper fxn 
-//                      https://www.geeksforgeeks.org/cpp/stringstream-c-applications/
-//                   4. Split helper function taken from and then modified myself
-//                      https://share.google/aimode/1FPCj9ls7J45hEiqT
-//                   5. Other C++ syntax that I did not learn in class including cmath
-//                      https://www.w3schools.com/cpp/default.asp
-//
-// Statement of Originality
-// ------------------------
-//
-// All the code and comments below are my own original work. For any non-
-// original work, I have provided citations above and in the comments with
-// enough detail so that someone can see the exact source and extent of the
-// borrowed work.
-//
-// In addition, I have not shared this work with anyone else, and I have not
-// seen solutions from other students, tutors, websites, books, etc.
-//
-/////////////////////////////////////////////////////////////////////////
+//Postfix calcuator
 
 # include <iostream>
 # include <sstream>
