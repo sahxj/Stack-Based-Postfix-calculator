@@ -1,4 +1,4 @@
-# Stack-Based-Postfix-calculator
+# Stack-Based Postfix calculator
 This calculator was developed using C++ and Stack management logic.
 
 I developed this project to practice implementing stack-based logic in C++, a clean terminal based UI, and effective error handling.
